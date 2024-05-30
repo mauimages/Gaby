@@ -1,0 +1,33 @@
+nav {
+  height: 50px;
+  background-color: rgb(3, 205, 3);
+  position: fixed;
+  width: 100%;
+  text-align: center;
+
+}
+
+.inline-block{
+  display: inline-block;
+  padding:15px;
+}
+
+.left{
+  background-color: green;
+  height:5000px;
+  float: left;
+  width:15%;
+}
+
+.right{
+  background-color: rgb(153, 153, 255);
+  height: 5000px;
+  float:left;
+  width: 85%;
+}
+
+/* target the class of inline-block below */
+
+/* target the class of .left below */
+
+/* target the class of .right below */
